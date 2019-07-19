@@ -2,9 +2,9 @@ indalitdesc = `
   **Indalit Cloud Consulting**
 
   Fisicamente situados en [Valencia, España](https://www.google.com/maps/place/Valencia,+Spain),
-  somos una empresa de consultoría con mas de 20 años de experiencia en tecnologías del
+  somos una empresa de consultoría con mas de 20 años de experiencia en tecnologías de
   Internet. Especializados en arquitecturas en la nube, nuestro trabajo es seguir
-  y acompañarle con sus proyectos de diseño e implementación de infraestructuras.
+  y acompañarle con sus proyectos de diseño e implantación de infraestructuras.
 `
 
 awstooltip = `
@@ -20,7 +20,7 @@ awstooltip = `
 gcptooltip = `
   **Google Cloud Platform**
 
-  El desafiador numero uno de AWS, con ventaja masiva en el universo
+  El desafiador numero uno de AWS, con una avanzada ventaja en el universo
   de los containers y del BigData.
 
   _Tags:_ \`[App Engine, BigQuery, BigTable, Compute Engine]\`
@@ -29,9 +29,9 @@ gcptooltip = `
 hashicorptooltip = `
   **HashiCorp**
 
-  Estos son los "cool kids" de la nube, Terraform, Packer, Vagrant, Vault... todas estas
-  herramientas que utilizamos todos los días para mantener nuestra architectura como codigo
-  los han ecrito ellos.
+  Estos son los "cool kids" de la nube, Terraform, Packer, Consul, Vagrant, Vault... todas estas
+  herramientas que utilizamos todos los días para mantener nuestra _arquitectura como codigo_
+  han sido programadas por ellos.
 
   _Tags:_ \`[Terraform, Packer, Vagrant, Vault, Consul]\`
 `
@@ -40,7 +40,7 @@ ansibletooltip = `
   **Ansible**
 
   Software de gestion de configuración hay miles, y los conocemos todos, lo que hace Ansible
-  diferente, es la facilidad de uso. No agentes, no programación, solo _playbooks_!
+  diferente, es la facilidad de uso. Sin agentes, sin programación, solo _playbooks_!
 
   _Tags:_ \`[Automation, Orchestration, Playbooks]\`
 `
@@ -48,9 +48,9 @@ ansibletooltip = `
 linuxtooltip = `
   **GNU/Linux**
 
-  ¿De verdad tenemos que explicar lo que es GNU / Linux? Desde su teléfono móvil a su automóvil
-  incluso su TV, GNU/Linux está en todos lados, y esa es una buena noticia, como hemos estado
-  usando,   configurándolo y contribuyendo a este ecosisistema durante mas de 20 años ;)
+  ¿De verdad tenemos que explicar lo que es GNU / Linux? Desde su teléfono móvil hasta su automóvil
+  (incluso su TV) GNU/Linux está en todos lados, y esa es una buena noticia, como hemos estado
+  usando, configurándolo y contribuyendo a este ecosistema durante mas de 20 años ;)
 
   _Tags:_ \`[Operating System, Debian, Ubuntu, RedHat, CoreOS]\`
 `
@@ -59,8 +59,8 @@ dockertooltip = `
   **Docker**
 
   _Docker_ es la ola gigante que lo lleva todo con ella, y que nos hace repensar nuestros antiguos
-  modelos de desplegue. Micro-servicios, infraestructura inmutable, intgración y entrega continua,
-  esos temas no son moda, representan una nueva manera de gestionar sus aplicaciónes.
+  modelos de despliegue. Micro-servicios, infraestructura inmutable, integración y entrega continua,
+  esos temas no son moda, representan una nueva manera de gestionar sus aplicaciones web.
 
   _Tags:_ \`[Container, docker, docker-compose, Kubernetes]\`
 `
